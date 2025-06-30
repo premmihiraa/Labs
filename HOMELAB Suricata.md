@@ -1,4 +1,4 @@
-**Suricata Setup and Testing Instructions** (Home LAB)
+**Suricata Setup and Testing Instructions that i have recorded** (Home LAB)
 
 This guide explains how to set up Suricata on a Linux machine and test its detection capabilities using ping and nmap from another device on the same network. 
 
